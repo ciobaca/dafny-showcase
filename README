@@ -1,0 +1,9 @@
+This repository contains implementations of various Dafny algorithms
+for teaching purposes.
+
+There are the following algorithms:
+- col3.dfy - Backtracking for the 3-COL problem.
+
+To compile:
+    dafny col3.dfy
+
